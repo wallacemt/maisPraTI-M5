@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d1c2006-6286-4fa7-89cd-756193ec147d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson02/Logic/src/ArrayEmJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson02/Logic/src/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson02/Logic/src/ConversorCF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson02/Logic/src/DiaDaSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson02/Logic/src/EstruturasDeRepeticao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson02/Logic/src/LoginTS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson02/Logic/src/MaiorDIdade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson02/Logic/src/MetodosStringEInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson02/Logic/src/ParOuImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson02/Logic/src/TiposPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson03/src/ManipulandoMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson03/src/SomandoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson04/src/Estoque/Armazenamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson04/src/Estoque/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson04/src/Estoque/Testes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson04/src/SistemaBancario/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson04/src/SistemaBancario/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson04/src/SistemaBancario/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson04/src/xadrez/Peca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson04/src/xadrez/Rainha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson04/src/xadrez/Rei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson04/src/xadrez/Tabuleiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lessons/lesson04/src/xadrez/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lessons/lesson1/HelloWordApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lessons/lesson1/HelloWordApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lessons/lesson1/HelloWordApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lessons/lesson1/HelloWordApp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lessons/lesson1/HelloWordApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lessons/lesson1/HelloWordApp/HelloWordApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lessons/lesson1/HelloWordApp/src/HelloWord/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lessons/lesson1/HelloWordApp/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lessons/lesson1/HelloWordApp/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2pftttRAOzbGzHJditcuzFoLNpl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/walla/OneDrive/Meus Cursos/Exercicio de OUTRAS LINGUAGENS/aulas-mais-pra-ti/M5(JAVA)/exercicio/ListaDeTarefas1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d1c2006-6286-4fa7-89cd-756193ec147d" name="Changes" comment="" />
+      <created>1733169175144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733169175144</updated>
+    </task>
+    <servers />
+  </component>
+</project>
